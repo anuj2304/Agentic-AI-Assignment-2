@@ -1,0 +1,5 @@
+.env
+campus.db
+traces.jsonl
+eval_output/
+__pycache__/
